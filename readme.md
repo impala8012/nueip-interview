@@ -1,5 +1,7 @@
 # 人易科技測驗
-網站:
+[網站](https://impala8012.github.io/nueip-interview/)
+
+
 此為上機測驗考題
 
 環境：將資料夾放到網頁伺服器中，用瀏覽器執行 http://網址/demo/index.html
