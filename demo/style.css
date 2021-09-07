@@ -1,0 +1,23 @@
+.table td:hover {
+  background-color: #fff;
+}
+.table tbody tr:hover {
+  color: #333;
+  background-color: rgb(211, 245, 207);
+}
+
+.focus {
+  background-color: rgb(211, 245, 207) !important;
+}
+
+#addPhoneErrorMessage,
+#addEmailErrorMessage,
+#moPhoneErrorMessage,
+#moEmailErrorMessage,
+#addcnnameErrormessage,
+#addsexErrormessage,
+#mocnnameErrormessage,
+#mosexErrormessage {
+  color: red;
+  padding-top: 5px;
+}
